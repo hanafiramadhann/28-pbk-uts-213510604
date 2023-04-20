@@ -1,0 +1,71 @@
+body {
+	margin: 15%;
+	font-family: sans-serif;
+    font-family: white;
+}
+
+.app {
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+
+
+}
+
+.card {
+	margin-bottom: 30px;
+	border: 3px solid black;
+	padding: 5px
+}
+
+.card-group {
+	margin-bottom: 10px
+}
+
+.error {
+	color: red
+}
+
+.active {
+	text-decoration: line-through
+}
+
+.title {
+	margin-bottom: 0
+}
+
+ul {
+	padding: 0;
+	margin-top: 0
+}
+
+li {
+	margin: 5px;
+	border: 3px solid black;
+	padding: 5px
+}
+
+li label {
+	cursor: pointer
+}
+
+input {
+	padding: 3px
+}
+
+.items {
+	display: flex;
+	justify-content: space-between;
+}
+
+a.btn-danger {
+	background: salmon;
+	color: #fff;
+	padding: 2px;
+	text-decoration: none
+}
+
+body{
+    background-image:url(R.jpg);
+    background-size:cover;
+}
